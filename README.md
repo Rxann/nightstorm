@@ -2,7 +2,7 @@
 
 # About
 
-nightstorm is A High Level library that provides async interfaces to popular modules. nightstorm is currently an in-development project and is not published to npm yet!
+nightstorm is a high level library that provides async interfaces to popular modules. nightstorm is currently an in-development project and is not published to npm yet!
 
 ## Documentation
 
