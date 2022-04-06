@@ -1,0 +1,19 @@
+{
+  "name": "nightstorm",
+  "version": "0.5.0",
+  "description": "A High Level library that provides async interfaces to popular modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rxan",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "nodemailer": "^6.7.3"
+  },
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.163"
+  }
+}
